@@ -14,6 +14,7 @@ public class App {
         System.out.println("Sum of 30 & 40 is:"+app.sum(30, 40));
         System.out.println("Sum of 10 & 20 is:"+app.sum(10, 20));
         System.out.println("Sum of 10 & 30 is:"+app.sum(10, 30));
-        //hi
+        //hi //hello
+        System.out.println("Sum of 10 & 40 is:"+app.sum(10, 40));
     }
 }
